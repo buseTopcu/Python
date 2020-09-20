@@ -1,0 +1,20 @@
+İSTATİSTİK HESAPLAMALAR İLE VERİ GÖRSELLEŞTİRME PROJESİ
+
+Veri görselleştirme, soyut bilgilerin analiz sonuçlarının grafikler, diyagramlar, tablolar, resimler veya animasyonlar oluşturarak sunulmasıdır. 
+Verileri, eğilimleri ve aykırı değerleri vurgulayarak anlamak için daha kolay bir form haline getirerek hikayeleri anlatmaya yardımcı olur. 
+İyi bir veri görselleştirme hikâyeyi doğru anlatır, veriden gelen gürültüyü ortadan kaldırır ve yararlı bilgilerin öne çıkmasını sağlar. 
+Veri görselleştirmelerinin amacı; görme duyusunu uyararak, insanlara karmaşık veriler hakkında anlam çıkarmada yardım etmektir.	
+
+Bu projede, ele aldığım veriler üzerinde verilere uygun testleri (t-test, correlation gibi) uygulayıp, testlerin sonuçlarını görsel olarak sundum.  
+
+Bu proje kapsamında temel olarak,
+
+- kullanacağım veri setine karar verme,
+- seçtiğim veri setinden elde etmek istediğim çıktıya uygun teste karar verme,
+- testin sonucuna göre çıkan veriyi en efektif şekilde görselleştirme
+
+işlemlerini gerçekleştirdim.
+
+Bu proje kapsamında kullandığım kütüphaneler:
+•	numpy : İstatistik hesaplamalar için
+•	seaborn, plotly, matplotlib : Veri görselleştirme için (seçtiğim veriye uygun)
